@@ -13,7 +13,7 @@ file:///C:/Users/Jena%20Holtzclaw/Desktop/projects/weekly-challenge/week1/index.
 
 ## Screenshot
  
- ![Overview of Horiseon](/assets/images/screenshot1.png)
+ ![Overview of Horiseon](/assets/images/screenshot1.PNG)
 
  ## Contribution
  Jena Holtzclaw
