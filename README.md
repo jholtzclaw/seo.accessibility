@@ -1,4 +1,4 @@
-# Horiseon Refatoring and Accessibility
+#  Horiseon Refactoring and Accessibility
 
 ## Purpose
 In this project, Horiseon Social Solution Services, INC. needed its website to meet the standards of accessibility. By taking the starter code and refactoring it, we were able to make the code cleaner with the use of HTML semantics. In return this also helps optimize search engines.
