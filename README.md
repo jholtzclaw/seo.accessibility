@@ -9,7 +9,6 @@ HTML and CSS
 ## Website
 https://jholtzclaw.github.io/seo.accessibility/
 
-file:///C:/Users/Jena%20Holtzclaw/Desktop/projects/weekly-challenge/week1/index.html
 
 ## Screenshot
  
